@@ -1,5 +1,5 @@
-public class Main{
+public class Main {
     public static void main(String[] args) {
-       LL list=new LL();
+        System.out.println("Hello world!");
     }
 }
